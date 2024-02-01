@@ -57,7 +57,6 @@ const Cart = () => {
           <Button
             color="white"
             bgColor={currentColor}
-            onClick={() => setCart(false)}
             text="Place Order"
             borderRadius="10px"
             width="full"
